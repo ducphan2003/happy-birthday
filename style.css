@@ -25,6 +25,7 @@ span {
     padding: 10px;
     margin: 0 auto;
     position: relative;
+    text-align: center;
 }
 .balloon {
     width: 738px;
@@ -44,6 +45,7 @@ span {
     padding: 10px;
     box-shadow: inset 17px 7px 10px rgba(182, 15, 97, 0.9);
     -webkit-transform-origin: bottom center;
+    text-align: left;
 }
 .balloon > div:nth-child(1) {
     background: rgba(182, 15, 97, 0.9);
